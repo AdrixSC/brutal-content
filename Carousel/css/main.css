@@ -1,0 +1,40 @@
+.bg-march-white {
+    background-image: url("../assets/images/bg-march-white.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90vh;
+    margin: 0px;
+    width: 90%;
+}
+
+.icon-chevron {
+    color: white;
+    padding-left: 40px;
+}
+
+.style-btn {
+    background-color: rgb(223, 43, 151);
+    color: white;
+    border: none;
+    margin-top: 95%;
+}
+
+.bg-march-menu {
+    background-image: url("../assets/images/bg-march-menu.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90vh;
+    margin: 0px;
+    width: 90%;
+}
+
+.march-red {
+    width: 200%;
+}
+
+.cars-mini {
+    width: 60%;
+    margin-bottom: 50%;
+}

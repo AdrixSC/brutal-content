@@ -1,0 +1,65 @@
+.columna1 {
+    background-image: url("../assets/images/bg-purple.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+    float: left;
+    overflow: scroll;
+    width: 50%;
+}
+
+.columna2 {
+    background-image: url("../assets/images/bg-green-dekstop.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+    overflow: scroll;
+    margin-left: 50%;
+}
+
+.bg-header {
+    background-color: black;
+}
+
+.menu {
+    color: white;
+    display: inline-flex;
+    margin: 10px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size: 15px;
+    padding-left: 40px;
+}
+
+.menu>p {
+    padding-left: 20px;
+}
+
+.redes-sociales {
+    color: white;
+    padding: 10px;
+}
+
+.redes-sociales>i {
+    padding-left: 4px;
+}
+
+.logo-lifeboxset {
+    padding-left: 60px !important;
+}
+
+.vacational-video {
+    margin-top: 50px;
+}
+
+.musical-fotos {
+    margin-bottom: 63px;
+}
+
+.march-columna2 {
+    position: relative;
+    right: 462px;
+}

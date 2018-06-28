@@ -1,0 +1,55 @@
+.banner-all {
+    background-image: url("../assets/images/banner-all-march.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60vh;
+    margin: 0px;
+    padding: 0px !important;
+    width: 100%;
+}
+
+.banner-green {
+    background-image: url("../assets/images/banner-green.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60vh;
+    margin: 0px;
+    padding: 0px !important;
+    width: 100%;
+}
+
+.banner-menu {
+    background-image: url("../assets/images/banner-menu.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60vh;
+    margin: 0px;
+    padding: 0px !important;
+    width: 100%;
+}
+
+.parrafos {
+    color: white;
+    text-align: right;
+    font-size: 10px;
+}
+
+.parrafos>.textos {
+    margin-top: 20%;
+    padding: 20px;
+}
+
+.title {
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.btn-pink {
+    background-color: rgb(212, 23, 152);
+    color: white;
+    padding: 5px;
+    margin-top: 25%;
+}
